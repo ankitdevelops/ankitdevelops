@@ -11,6 +11,10 @@
 - ⚡ Fun fact: The fact is that there is no funfact
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ankitandrel&theme=dark" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitandrel&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ankitandrel&theme=dark" />
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankitandrel&theme=dark)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitandrel&theme=dark" />
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&theme=dark" /> -->
