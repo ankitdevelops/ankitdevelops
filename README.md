@@ -2,7 +2,7 @@
 
 #### I am Ankit Kumar
 
-- 🔭 I’m currently working on [devshare](https://devshare0.herokuapp.com/) (in development)
+- 🔭 I’m currently working on [ytclass](https://ytclass.herokuapp.com/) (in development)
     - devshare is a platform where developers can share devlopment resource, recommend articles, videos, courses etc.
 - 🌱 I’m currently learning React
 - 💬 Ask me about Django, JavaScript
