@@ -1,8 +1,9 @@
-### Hi there <img src="hello.gif" width="30px">
+### Hi there 
+<!--<img src="hello.gif" width="30px">-->
 
 #### I am Ankit Kumar
 
-- 🔭 I’m currently working on [ytclass](https://ytclass.herokuapp.com/) (in development)
+- 🔭 I’m currently working on [ytclass](https://www.ytclass.live/)
     - devshare is a platform where developers can share devlopment resource, recommend articles, videos, courses etc.
 - 🌱 I’m currently learning React
 - 💬 Ask me about Django, JavaScript
