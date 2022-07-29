@@ -9,7 +9,7 @@
 
 - 🔭  I’m currently working on [YTClass](https://www.ytclass.live/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Python, Django, JavaScript, React.js**
 
