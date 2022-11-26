@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/helloankit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="helloankit" /></a> </p>
 
 - 📑  [My Resume](https://drive.google.com/file/d/1545eaRomB1tiQkP1TfswE-6Uum5QsrVa/view?usp=sharing)
-- 🔭  Latest Project [YTClass](https://www.ytclass.live/)
+- 🔭  Latest Project [devblogs](https://github.com/ankitdevelops/devblogs)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
