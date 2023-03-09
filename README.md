@@ -26,7 +26,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ankitdevelops&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ankitdevelops&theme=dark)](https://git.io/streak-stats) -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitdevelops&show_icons=true&locale=en" alt="ankitdevelops" /></p>
 
