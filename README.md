@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **heyankitkr@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nwp23PpDdIlT5Eo8_dfzD5fBob9QuFGC/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://resume.ankitdevelops.in/)
 
 - ⚡ Fun fact **I am not funny**
 
