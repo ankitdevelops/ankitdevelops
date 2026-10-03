@@ -288,9 +288,20 @@ a {
   justify-content: space-between;
   align-items: flex-start;
   gap: 1rem;
+  -webkit-tap-highlight-color: transparent;
 }
-.job-toggle:hover h3 {
-  text-decoration: underline;
+.job-toggle:focus {
+  outline: none;
+}
+.job-toggle:focus-visible {
+  outline: 2px solid var(--ink-3);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+@media (hover: hover) {
+  .job-toggle:hover h3 {
+    text-decoration: underline;
+  }
 }
 .job-toggle .chevron {
   color: var(--ink-3);
