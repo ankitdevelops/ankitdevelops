@@ -164,6 +164,11 @@ a { color: inherit; }
 .edu p { margin: 0 0 0.6rem; }
 .edu p strong { color: var(--ink); }
 
+.contact-cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; max-width: 38rem; }
+.contact-cols h4 { margin: 0 0 0.25rem; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-3); }
+.contact-cols p { margin: 0; overflow-wrap: anywhere; }
+.contact-cols a { font-weight: 600; }
+
 .brands { max-width: 36rem; color: var(--ink-2); font-size: 1.05rem; line-height: 1.65; }
 .brands p { margin: 0; }
 .brands p + p { margin-top: 1rem; }
