@@ -22,6 +22,16 @@
   // Footer year
   document.getElementById('year').textContent = new Date().getFullYear();
 
+  // Collapsible experience entries
+  document.querySelectorAll('.job-toggle').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const body = document.getElementById(btn.getAttribute('aria-controls'));
+      const open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      if (body) body.hidden = open;
+    });
+  });
+
   // Mobile nav
   const nav = document.getElementById('siteNav');
   const toggle = document.getElementById('navToggle');
