@@ -464,4 +464,8 @@ a {
   .site-header {
     position: relative;
   }
+  .contact-cols p,
+  .contact-cols a {
+    font-size: 0.9rem;
+  }
 }
