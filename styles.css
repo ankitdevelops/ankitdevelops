@@ -455,25 +455,19 @@ a {
     align-self: center;
   }
   .site-nav {
-    display: none;
-    position: absolute;
-    top: 60px;
-    right: 1rem;
-    background: var(--card);
-    border: 1px solid var(--rule);
-    flex-direction: column;
-    padding: 1rem 1.5rem;
-    border-radius: 12px;
-    z-index: 10;
-  }
-  .site-nav.open {
     display: flex;
+    position: static;
+    background: none;
+    border: 0;
+    flex-direction: row;
+    padding: 0;
+    gap: 0;
+  }
+  .site-nav a:not(.btn-resume) {
+    display: none;
   }
   .nav-toggle {
-    display: block;
-  }
-  .site-header {
-    position: relative;
+    display: none;
   }
   .contact-cols p,
   .contact-cols a {
