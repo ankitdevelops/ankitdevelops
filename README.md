@@ -16,6 +16,5 @@
 
 <p align="left">
   <a href="mailto:heyankitkr@gmail.com">Email</a> ·
-  <a href="tel:+918340603037">8340603037</a> ·
   <a href="https://ankitdevelops.in/resume.pdf">resume ↗</a>
 </p>
