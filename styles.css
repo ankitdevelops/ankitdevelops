@@ -112,6 +112,7 @@ a {
 .avatar-wrap {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 1rem;
   margin-bottom: 2rem;
 }
@@ -440,6 +441,13 @@ a {
 @media (max-width: 640px) {
   .intro {
     padding: 2.5rem 0 3rem;
+  }
+  .avatar-wrap {
+    gap: 0.75rem;
+  }
+  .status {
+    font-size: 0.78rem;
+    padding: 0.3rem 0.65rem;
   }
   .lede {
     font-size: 1.05rem;
